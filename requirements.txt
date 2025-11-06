@@ -1,1 +1,6 @@
-FlaskFlask-Corspython-docxopenpyxlreportlabgunicorn
+Flask
+Flask-Cors
+python-docx
+openpyxl
+reportlab
+gunicorn
